@@ -17,9 +17,7 @@
     |       |       |--> Session1_user2
     |       |       |
     |       |       |-->Session2_user2
-    |       |       :
-    |       |
-    |       :
+    |       :       :
     |
     |-->testing_files
     |       |
@@ -35,7 +33,4 @@
     |       |       |--> Session1_user2
     |       |       |
     |       |       |-->Session2_user2
-    |       |       :
-    |       |
-    |       :
-    |
+    |       :       :
