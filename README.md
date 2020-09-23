@@ -47,4 +47,6 @@
              1.36800003052,1.37300000014,Left,Pressed,290,53
              1.5759999752,1.57599999988,Left,Released,292,52
     
+    # button -> NoButton, Left
+    # Move   -> Move, Released, Pressed,
     
