@@ -38,6 +38,13 @@
 
 
     ## SessionX_userY
+    
     Fields  : record timestamp, client timestamp, button,   state,      x,      y
                  |                      |           |         |         |       |
     Datatype:   Double,              Double,      string,  string,   Integer,   Integer
+    
+    Example: 0.351000070572,0.342999999877,NoButton,Move,367,241
+             1.36800003052,1.37300000014,Left,Pressed,290,53
+             1.5759999752,1.57599999988,Left,Released,292,52
+    
+    
