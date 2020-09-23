@@ -38,5 +38,6 @@
 
 
     ## SessionX_userY
-    Fields  : record timestamp, client timestamp, button, state,      x,  y
-    Datatype: Double,           double,           string, string,Integer,Integer
+    Fields  : record timestamp, client timestamp, button,   state,      x,      y
+                 |                      |           |         |         |       |
+    Datatype:   Double,              Double,      string,  string,   Integer,   Integer
